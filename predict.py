@@ -47,6 +47,9 @@ test_loss, test_acc = model.evaluate(X_test, y_test)
 print("Highest acc. opt. name is:", opt_name[max_index])
 print('Test accuracy:', test_acc)
 
-
+                #return close to 0          #return close to 1
 a = np.array([[5,117,86,30,105,39.1,0.251,42],[3,173,78,39,185,33.8,0.97,31]])
 print(model.predict(a))
+
+#close to zero means not diabetic
+#close to one means is diabetic
