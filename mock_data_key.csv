@@ -1,0 +1,30 @@
+MALNOURISHED,NORMAL/DESIRABLE,BORDERLINE RISK,OVERWEIGHT/AT RISK,HIGH RISK
+BMI,< 19,19-25,26-29,30-39,≥ 40
+Weight (Kg),< 63,63-68,69-86,87-97,≥ 98
+Waist Circumference (cm),≤ 73,74-81,82-89,89-102,≥ 103
+Systolic BP (mmHg),≤ 60,61-129,130-139,140-180,≥ 181
+Diastolic BP (mmHg),≤ 67,68-79,80-89,90-120,≥ 121
+HDL-c (mg/dL),< 30,60-100,46-59,35-45,≤ 40
+LDL-c (mg/dL),< 65,65-90,91-130,130-159,> 160
+Total Cholesterol (mg/dL),< 110,160-180,181-200,200-239,≥ 240
+Atherogenicity index,X,−0.3-0.1,0.11-0.24,.25-0.3,> 0.3
+TAG (mg/dL),X,< 150,150-200,200-499,≥ 500
+FPG (mg/dL),< 75,75-100,100-115,115-125,> 125
+HbA1c (%),< 4,4-5.7,5.7-6.4,6.5-8.0,≥ 8.0
+CRP (mg/L),X,< 1.0,1.0-2.0,2.0-3.0,> 3.0
+Pulse Oximetry (%),< 85,≥ 95,90-94,85-90,< 85
+Servings Grain (oz.),< 3.0,3-7,7-8,9-10,> 10
+Servings Fruit (2c.),0-1,2-3,X,X,X
+Servings Veg (2.5c.),0-1,2-3,X,X,X
+Servings Pro (5.5oz.),< 1.0,2-6,X,6-7,> 8
+Servings Dairy (1c.),X,0-4,X,X,X
+Total Caloric Intake (kcal),< 1800,1800-2200,2200-2400,2400-3000,> 3000
+% Energy CHO,< 40,40-55,55-60,60-65,> 65
+% Energy Pro,< 20,20-35,35-40,40-45,> 45
+% Energy Fat,< 15,15-25,30-40,40-45,> 45
+Vitamin D (mcg),< 25,25-100,X,X,> 100
+Vitamin E (mg),≤ 11,12-18,X,X,> 18
+Vitamin A (mcg),≤ 699,700-1000,X,X,> 3000
+Vitamin K (mcg),≤ 109,110-140,X,X,> 140
+Vitamin B12 (mcg),≤ 1.4,1.5-3.0,X,X,> 3.0
+Folate (mcg),≤ 399,400-600,X,X,> 600
